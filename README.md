@@ -1,1 +1,2 @@
 # ToDo-List
+This is a tutorial project of a ToDo list app from a course that I purchased in early 2022. This project was made using html, css, and javascript. Im still in the foundations part of learning javascript so the html and javascript was mimicked directly from my instructor, but the styling was done by me.
